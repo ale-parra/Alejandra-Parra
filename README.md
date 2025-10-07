@@ -8,7 +8,7 @@
 Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enfocada en garantizar la calidad del software a través de metodologías ágiles. Me especializo en **pruebas de API, pruebas UI y debugging**, aplicando herramientas modernas y buenas prácticas en cada proyecto.
 
 ## 🚀 Sobre mí
-- 🎓 Formación en **Odontología** y **Computación e Informática**.
+- 🎓 Formación en **Odontología** y **Administración** donde tranferí habilidades tales como manejo de registros, servicio al cliente y gestión de proyectos.
 - 📚 Actualmente cursando satisfactoriamente el **bootcamp en Quality Assurance Engineering** de Tripleten LaTam.
 - 💡 Estoy en transición del mundo de la ortodoncia al sector TI, impulsada por mi interés en la tecnología y la mejora de procesos a través del software.
 - 🧩 Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos**.
